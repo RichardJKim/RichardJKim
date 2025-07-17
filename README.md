@@ -1,10 +1,6 @@
-## Hi there 👋 Hello world!!
+## Pleasure to meet you! My name is Richard Kim.
 
-<!--
-**RichardJKim/RichardJKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started!
-
+I am a Rising Junior in Highschool in the Bronx. I attend Riverdale Kingsbridge Academy 141. I am a 4.0 GPA student with many passions, including Aeronautical and Mechanical engineering. I am proficient in both Google and Microsoft Office Suite, Tinkercad, and 3D print fabrication. I am currently expanding my STEM knowledge in coding and AI to enhance my engineering skills.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
