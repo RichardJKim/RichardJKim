@@ -1,6 +1,9 @@
 ## Pleasure to meet you! My name is Richard Kim.
 
 I am a Rising Junior in Highschool in the Bronx. I attend Riverdale Kingsbridge Academy 141. I am a 4.0 GPA student with many passions, including Aeronautical and Mechanical engineering. I am proficient in both Google and Microsoft Office Suite, Tinkercad, and 3D print fabrication. I am currently expanding my STEM knowledge in coding and AI to enhance my engineering skills.
+
+<img width="760" height="665" alt="image" src="https://github.com/user-attachments/assets/2596b891-cb0d-4782-9300-3dc3a2a892bc" />
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
