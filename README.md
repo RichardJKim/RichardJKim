@@ -2,7 +2,7 @@
 
 I am a Rising Junior in Highschool in the Bronx. I attend Riverdale Kingsbridge Academy 141. I am a 4.0 GPA student with many passions, including Aeronautical and Mechanical engineering. I am proficient in both Google and Microsoft Office Suite, Tinkercad, and 3D print fabrication. I am currently expanding my STEM knowledge in coding and AI to enhance my engineering skills.
 
-<img width="760" height="665" alt="image" src="https://github.com/user-attachments/assets/2596b891-cb0d-4782-9300-3dc3a2a892bc" />
+<img width="665" height="665" alt="image" src="https://github.com/user-attachments/assets/7b1ecb50-7cc3-4587-a362-faf40bad035f" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
